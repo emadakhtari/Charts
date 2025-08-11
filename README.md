@@ -34,7 +34,7 @@
 | Layer         | Tech                           |
 |---------------|--------------------------------|
 | Backend       | Laravel PHP Framework         |
-| Frontend      | Blade / Vue.js / Bootstrap RTL|
+| Frontend      | Blade / Bootstrap RTL|
 | Charts        | Highcharts (Persianized)      |
 | Ajax          | jQuery / Axios                |
 | Database      | MySQL / MariaDB               |
