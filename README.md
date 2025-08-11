@@ -84,4 +84,3 @@ Visit http://localhost:8000 in your browser.
 - Developer: Emad Akhtari
 - 📧 Email: [akhtari.em1@gmail.com]
 - 🔗 GitHub: https://github.com/emadakhtari
-<img width="468" height="634" alt="image" src="https://github.com/user-attachments/assets/74344e3d-bc5e-418a-b17e-42461d8823de" />
